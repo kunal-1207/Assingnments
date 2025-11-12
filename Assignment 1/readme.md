@@ -150,7 +150,7 @@ echo $MY_VAR
 
 ## GitHub Repository Link
 
-[Insert GitHub repo link here](https://github.com/yourusername/your-repo)
+[Insert GitHub repo link here]([https://github.com/yourusername/your-repo](https://github.com/kunal-1207/Assingnments/tree/main/Assignment%201))
 
 ---
 
